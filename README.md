@@ -3,7 +3,7 @@ ICBit integration/staging tree
 
 [![Build Status](https://travis-ci.org/ICBit/ICBit.svg?branch=master)](https://travis-ci.org/ICBit/ICBit)
 
-https://ICBitcore.org
+https://icbit.io
 
 What is ICBit?
 ----------------
